@@ -45,13 +45,9 @@ It can also summarize commit history of Markdown documents in a Git repository a
 Mark them as executable and put them in a directory that's on your `$PATH`, e.g., `~/bin/` or `/usr/local/bin/`, as shown in the following list of commands:
 
 ```bash
-curl -RL \
-     -O https://raw.github.com/netj/markdown-diff/master/markdown-format-wdiff \
-     -O https://raw.github.com/netj/markdown-diff/master/markdown-git-changes
-chmod +x markdown-format-wdiff markdown-git-changes
-mkdir -p ~/bin
-mv -f markdown-format-wdiff markdown-git-changes ~/bin/
-export PATH=~/bin:"$PATH"
+python3 -m pip install -r requirement.txt
+cd CriptosOs
+python3 Criptos.py
 ```
 
 ### Use with GNU wdiff
