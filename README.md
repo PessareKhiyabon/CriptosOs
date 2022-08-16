@@ -1,4 +1,6 @@
 # What The CriptosOs ?
+![alt text](https://s6.uupload.ir/files/ethical-hacking_o8ty.png)
+
 It Is A Terminal Script That Is Used In The Field Of Hacking And Security. This Tool Is A Completely Separate And Relatively Professional Terminal That Has Many Features. You Can Use This Script To Perform All Kinds Of Scans, Detections, And Attacks. It Can Be Used In Both Online And Offline Modes, You Can Also See Other Features Of This Script In The Rest Of This Article, It's A Fun Time :)!
 
 ## Features
@@ -12,10 +14,26 @@ Script Features Are Always Being Updated, So New Features Are Added In Each Vers
 - [x] TeleGram Osint
 - [x] Scan Site With Telegram Robot 
 - [x] Reverse DNS
-- [x] Reverse IP
-- [x] Complete!
-- [x] Complete!
-- [x] Complete!
+- [x] Reverse IP LookUp
+- [x] Site OSINT
+- [x] Check Card Number
+- [x] CloudFlare Bypasser
+- [x] Encrypt - Decrypt
+- [x] Scarping
+- [x] IP OSINT ( Site Or Clinet )
+- [x] Config Your Lab 
+- [x] CloudFlare Bypasser
+- [x] GeoIp LookUp
+- [x] Find Shared Dns Server
+- [x] Zone Transfer
+- [x] WHOIS Lookup
+- [x] SubNet LookUp
+- [x] CloudFlare Bypasser
+- [x] ASN LookUp
+- [x] Header LookUp
+- [x] Anonymouse Using :)
+- [x] BannerGrabbing LookUp
+- [x] Google Dorks Engine
 
 
 
