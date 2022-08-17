@@ -44,23 +44,16 @@ Script Features Are Always Being Updated, So New Features Are Added In Each Vers
 
 # Installing And Usage !
 
-Markdown-Diff annotates word [diff][]s of [Markdown][] documents for easier review.
-It reformats the output of [`wdiff`][] or `git --word-diff` in Markdown, so the changes to a Markdown document can be viewed inline.
-It can also summarize commit history of Markdown documents in a Git repository as well as the changes made to them.
-
-[Markdown]: https://en.wikipedia.org/wiki/Markdown
-[diff]: https://en.wikipedia.org/wiki/Diff
-[`wdiff`]: http://www.gnu.org/software/wdiff/ 
+Installation Is The Same For All Operating Systems And You Only Need ```Python3``` The Required Library Installation File Is In The Script. Follow The Instructions Below To Install
 
 
-## Usage
+## Install
 
-### Download and Install the Scripts
+### Download The ```python3```
 
-* [markdown-format-wdiff](https://raw.github.com/netj/markdown-diff/master/markdown-format-wdiff)
-* [markdown-git-changes](https://raw.github.com/netj/markdown-diff/master/markdown-git-changes)
+* [ Download Python3 With Python.org](https://www.python.org/downloads/)
 
-Mark them as executable and put them in a directory that's on your `$PATH`, e.g., `~/bin/` or `/usr/local/bin/`, as shown in the following list of commands:
+Instructions For Installation In Windows And Linux And Other Operating Systems :
 
 ```bash
 python3 -m pip install -r requirement.txt
@@ -68,16 +61,23 @@ cd CriptosOs
 python3 Criptos.py
 ```
 
-### Use with GNU wdiff
+### Check The Correctness Of The Installation
+
+With This Command, You Can Make Sure That All Prerequisites And The Script Itself Are Correctly Installed
 
 ```bash
-wdiff old.md new.md | markdown-format-wdiff >changes.md
+$ 𝙲𝚛𝚒𝚙𝚃𝚘𝚜#kali ~> install -me
 ```
+![alt text](https://github.com/PessareKhiyabon/CriptosOs/blob/master/Screenshot%202022-08-17%20182109.png)
 
-### Use with Git
+
+
+### Help Menu
+
+With The Help Command, The Help Page For The Script Commands Will Be Displayed To You, On This Page There Are Several Help Pages For Other Services Such As Sharkservice, The Help Instructions For The Services Are Mentioned In This Menu.
 
 ```bash
-markdown-git-changes origin/master README.md >changes.md
+$ 𝙲𝚛𝚒𝚙𝚃𝚘𝚜#kali ~> help
 ```
 
 ### View the Output
@@ -95,6 +95,10 @@ open changes.html
 
 
 ----
+
+# Sharkservice Is An Exclusive Service From CriptosOS !
+
+Installation Is The Same For All Operating Systems And You Only Need ```Python3``` The Required Library Installation File Is In The Script. Follow The Instructions Below To Install
 
 
 
