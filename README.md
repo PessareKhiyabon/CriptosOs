@@ -39,7 +39,7 @@ Script Features Are Always Being Updated, So New Features Are Added In Each Vers
 
 
 
-
+----
 
 
 # Installing And Usage !
@@ -79,6 +79,7 @@ With The Help Command, The Help Page For The Script Commands Will Be Displayed T
 ```bash
 $ 𝙲𝚛𝚒𝚙𝚃𝚘𝚜#kali ~> help
 ```
+----
 
 ### View the Output
 
@@ -98,7 +99,28 @@ open changes.html
 
 # Sharkservice Is An Exclusive Service From CriptosOS !
 
-Installation Is The Same For All Operating Systems And You Only Need ```Python3``` The Required Library Installation File Is In The Script. Follow The Instructions Below To Install
+```bash
+
+               ,                             Created By : PessareKhiyabon
+             .';                             ASCII ART : https://ascii.co.uk/
+         .-'` .'
+       ,`.-'-.`\
+      ; /     '-'
+      | \       ,-,
+      \  '-.__   )_`'._
+       '.     ```      ``'--._
+      .-' ,                   `'-.
+       '-'`-._           ((   o   )
+        jgs   `'--....(`- ,__..--'
+                       '-'`
 
 
+```
+Sharkservice Services Are Exclusive Services That Have Been Collected And Provided For You. These Services Will Help You A Lot In The Field Of Client Hacking, Web Hacking And Osint, But Not Everything Ends Here. There Are Many Services That You Can Use. You Can See The Sharkservice Help Menu From The ```sharkmenu``` Command
 
+```bash
+
+# Show Help Menu SharkService
+$ 𝙲𝚛𝚒𝚙𝚃𝚘𝚜#kali ~> sharkmenu
+
+```
