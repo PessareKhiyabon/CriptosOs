@@ -97,7 +97,7 @@ open changes.html
 
 ----
 
-# Sharkservice Is An Exclusive Service From CriptosOS !
+# SharkService Is An Exclusive Service From CriptosOS !
 
 ```bash
 
@@ -122,5 +122,14 @@ Sharkservice Services Are Exclusive Services That Have Been Collected And Provid
 
 # Show Help Menu SharkService
 $ 𝙲𝚛𝚒𝚙𝚃𝚘𝚜#kali ~> sharkmenu
+
+```
+
+## Using a SharkService
+For Example, We Use The ```Dnsshark``` Service With The Following Command :
+
+```bash
+
+$ 𝙲𝚛𝚒𝚙𝚃𝚘𝚜#kali ~> dnsshark
 
 ```
