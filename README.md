@@ -133,3 +133,11 @@ For Example, We Use The ```Dnsshark``` Service With The Following Command :
 $ 𝙲𝚛𝚒𝚙𝚃𝚘𝚜#kali ~> dnsshark
 
 ```
+
+### Result :
+
+![alt text](https://github.com/PessareKhiyabon/CriptosOs/raw/master/Screenshot%202022-08-17%20185111.png)
+
+### Use The ```sharkmenu``` Command To See All Commands Related To Sharkservice
+
+----
