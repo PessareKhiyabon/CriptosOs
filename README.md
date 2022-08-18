@@ -1,6 +1,9 @@
 # What The CriptosOs ?
 
-> This Script In Beta Version 
+> This Script Is In Beta Version And I Am Updating And Expanding This Script, With Each Update New Features And New Options Will Be Added. Be Patient. Thank You.
+
+
+
 
 ![alt text](https://s6.uupload.ir/files/ethical-hacking_o8ty.png)
 
