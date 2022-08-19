@@ -202,6 +202,15 @@ $ 𝙲𝚛𝚒𝚙𝚃𝚘𝚜#kali ~> dnsshark
 
 ![alt text](https://github.com/PessareKhiyabon/CriptosOs/raw/master/Screenshot%202022-08-17%20185111.png)
 
-### Use The ```sharkmenu``` Command To See All Commands Related To Sharkservice
-
 ----
+
+## Use The http://localhost With CripTosOS
+
+To Use Your Localhost Environment, Execute The Following Commands In The Script
+
+```bash
+# Activation Of The LocalHost Environment
+$ 𝙲𝚛𝚒𝚙𝚃𝚘𝚜#kali ~> myhost -open
+
+```
+### Result :
