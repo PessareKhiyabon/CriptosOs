@@ -27,8 +27,8 @@ Script Features Are Always Being Updated, So New Features Are Added In Each Vers
 - [x] Check Card Number
 - [x] CloudFlare Bypasser
 - [x] Encrypt - Decrypt
-- [x] Scarping
-- [x] IP OSINT ( Site Or Clinet )
+- [x] Scraping
+- [x] IP OSINT ( Site Or Client )
 - [x] Config Your Lab 
 - [x] CloudFlare Bypasser
 - [x] GeoIp LookUp
@@ -87,18 +87,41 @@ With The Help Command, The Help Page For The Script Commands Will Be Displayed T
 ```bash
 $ 𝙲𝚛𝚒𝚙𝚃𝚘𝚜#kali ~> help
 ```
-----
 
-### View the Output
+### View the Help Menu
 
 ```bash
-# use a Markdown preview app, such as Marked
-open changes.md
-
-# or, compile it into HTML and view with your web browser
-npm -g install marked
-marked changes.md >changes.html
-open changes.html
+            ..:::::..       This script is open source 
+          .:::::::::::.     But This Script Is Encrypted
+         :::::::::::::::    This Script Is Completely Free 
+        :::::::::::::::::   This Script Is For All Operating Systems                      
+        :::::::_/|:::::::     
+         ::::=/_/:::::::        
+          `:_/ |::::::'            About Us : 
+       (   /  ,|:::''                              
+        \_/^\/||__              @PessareKhiyabon 
+     _/~  `""~`"` \_       WeirdVillage.neocities.org
+  __/  -'/  `-._ `\_\__     I Can Create Your World  
+/jgs  /-'`  `\   \  \-.\                           
+                               Thanks Your Use :)                                               
+=========================================================
+|                   Criptos v1.1:                       |
+=========================================================
+|   help ==> Show The Help Menu                         |
+|   sharkservice ==> Show The SharkService Menu         |
+|   configauto ==> Config/Install Require Package       |
+|   myhost ==> Show Your IP                             |
+|   myippub ==> Show Your Public IP                     |
+|   myhost -open ==> Localhost Activation               |
+|   clear ==> Clean Your Terminal                       |
+|   dir ==> Current Directory                           |
+|   lsd ==> Files In The Directory                      |
+|   shomarecrt ==> Bank Card Number Checking Service    |
+|   base64e ==> Encrypt with Base64                     |
+|   base64de ==> Decrypt Base64                         |
+|   exit ==> Exit The CripTosOS                         |
+|   dir ==> Current Directory                           |
+=========================================================
 ```
 
 
@@ -132,6 +155,39 @@ Sharkservice Services Are Exclusive Services That Have Been Collected And Provid
 $ 𝙲𝚛𝚒𝚙𝚃𝚘𝚜#kali ~> sharkmenu
 
 ```
+## SharkService Help Menu
+
+```bash
+               ,
+             .';
+         .-'` .'
+       ,`.-'-.`
+      ; /     '-'
+      | \       ,-,
+      \  '-.__   )_`'._
+       '.     ```      ``'--._
+      .-' ,                   `'-.
+       '-'`-._           ((   o   )
+        jgs   `'--....(`- ,__..--'
+                       '-'`
+=========================================================
+|                   SharkMenu:                          | 
+=========================================================
+| dnsshark >	Dns LookUp Service                      |
+| siteshark >	Site Or Ip OSINT                        |
+| subshark >	SubDomain LookUp                        |
+| iplockshark > Get Ip Location                         |
+| osintelshark > Telegram Osint Service                 |
+| zoneshark >    Zone Transfer Service                  |
+| httpshark >    HtppHeader LookUp                      |
+| dorkshark >  	 Google Dork Search Engine              |
+| asnsshark >    ASN LookUp                             |
+| bangershark >  Banner Grabbing (Search)               |
+| cveshark >  	 CVE Search Engine                      |
+=========================================================
+
+```
+----
 
 ## Using a SharkService
 For Example, We Use The ```Dnsshark``` Service With The Following Command :
