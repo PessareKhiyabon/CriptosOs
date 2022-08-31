@@ -187,7 +187,6 @@ $ 𝙲𝚛𝚒𝚙𝚃𝚘𝚜#kali ~> sharkmenu
 =========================================================
 
 ```
-----
 
 ## Using a SharkService
 For Example, We Use The ```Dnsshark``` Service With The Following Command :
