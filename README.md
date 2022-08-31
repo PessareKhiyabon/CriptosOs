@@ -213,3 +213,5 @@ $ 𝙲𝚛𝚒𝚙𝚃𝚘𝚜#kali ~> myhost -open
 
 ```
 ### Result :
+
+![alt text](https://github.com/PessareKhiyabon/CriptosOs/blob/master/image_2022-08-31_15-53-20.png?raw=true)
