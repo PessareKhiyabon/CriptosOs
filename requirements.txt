@@ -1,0 +1,9 @@
+marshal
+python-nmap
+requests
+colorama
+jsons
+pybase64
+tqdm
+googlesearch-python
+pycopy-webbrowser
