@@ -27,7 +27,7 @@ Script Features Are Always Being Updated, So New Features Are Added In Each Vers
 - [x] Check Card Number
 - [x] CloudFlare Bypasser
 - [x] Encrypt - Decrypt
-- [x] Scraping
+- [x] Scarping
 - [x] IP OSINT ( Site Or Client )
 - [x] Config Your Lab 
 - [x] CloudFlare Bypasser
@@ -42,6 +42,10 @@ Script Features Are Always Being Updated, So New Features Are Added In Each Vers
 - [x] Anonymouse Using :)
 - [x] BannerGrabbing LookUp
 - [x] Google Dorks Engine
+- [x] WHOIS Pro
+- [x] WIFI Password Lookup
+- [x] MacAddress LookUp
+- [x] More....
 
 
 
@@ -215,3 +219,54 @@ $ 𝙲𝚛𝚒𝚙𝚃𝚘𝚜#kali ~> myhost -open
 ### Result :
 
 ![alt text](https://github.com/PessareKhiyabon/CriptosOs/blob/master/image_2022-08-31_15-53-20.png?raw=true)
+
+-----
+
+# WizardInstaller Service
+
+> This Service Is Only For Linux Operating Systems, And In Windows You Have To Install Haru Tools Manually
+
+An Automatic Installation Service Of Tools Required For Linux Operating Systems
+
+To See The Menu Of This Service, You Can See The Help Menu And Every Service With The `configauto` Command
+
+```bash
+
+(       "     )                                                                                                                                                                                    
+  ( _  *                                                                                                                                                                                           
+     * (     /           ___                                                                                                                                                                       
+        "     "        _/ /       Hey , I Am The Wizard Installer !                                                                                                                                
+       (   *  )    ___/   |                                                                                                                                                                        
+         )   "     _ o)'-./__     I Can Easily Install Pre-defined Services For You!                                                                                                               
+        *  _ )    (_, . $$$       The Predetermined Services Are Registered By The Administration And Cannot Be Changed Or Accessed                                                                
+        (  )   __ __ 7_ $$$$      With Each Update, The Services Are Updated                                                                                                                       
+         ( :  { _)  '---  $\      Lets Use :                                                                                                                                                       
+    ______'___//__\   ____, \                                                                                                                                                                      
+     )           ( \_/ _____\_                                                                                                                                                                     
+   .'             \   \------''.                                                                                                                                                                   
+   |='           '=|  |         )                                                                                                                                                                  
+   |               |  |  .    _/    You Can Install The Desired Service With The Following Command                                                                                                 
+    \    (. ) ,   /  /__I_____\     service install (name)                                                                                                                                         
+snd  '._/_)_(\__.'   (__,(__,_]     Use The Name Of The Service Instead Of (Name).                                                                                                                 
+    @---()_.'---@                                                     
+
+
+```
+
+## Install A Service 
+
+To Install The Service, You Must Install The Desired Service With The `service install (name)` Command. Use Service Name Instead Of Name
+
+### Example :
+
+```bash
+
+$ ServiceInstaller ~# > service install armitage
+
+```
+New Services Are Always Added With Updates, You Can Even Install Your Own Personal Services :)
+
+You Can Use The `back` Command To Return To The Main Menu
+
+----
+
