@@ -1,0 +1,11 @@
+login.php
+index.php
+robots.txt
+index.php
+about.php
+login.php
+security.php
+logout.php
+setup.php
+instructions.php
+phpinfo.php
