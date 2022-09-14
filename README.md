@@ -1,3 +1,28 @@
+<h1 align="center">CripTosOS v1.1 Best Hacking Tools</h1>
+<em><h5 align="center">(Created By @PessareKhiyabon)</h5></em>
+
+<p align="center">
+<a href="#"><img alt="MH-DDoS forks" src="https://img.shields.io/github/forks/PessareKhiyabon/CriptosOS?style=for-the-badge"></a>
+<a href="#"><img alt="MH-DDoS last commit (main)" src="https://img.shields.io/github/last-commit/PessareKhiyabon/CriptosOS/main?color=green&style=for-the-badge"></a>
+<a href="#"><img alt="MH-DDoS Repo stars" src="https://img.shields.io/github/stars/PessareKhiyabon/CriptosOS?style=for-the-badge&color=yellow"></a>
+<a href="#"><img alt="MH-DDoS License" src="https://img.shields.io/github/license/PessareKhiyabon/CriptosOS?color=orange&style=for-the-badge"></a>
+<a href="https://github.com/MatrixTM/MHDDoS/issues"><img alt="MatrixTM issues" src="https://img.shields.io/github/issues/PessareKhiyabon/CriptosOS?color=purple&style=for-the-badge"></a>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # What The CriptosOs ?
 
 > This Script Is In Beta Version And I Am Updating And Expanding This Script, With Each Update New Features And New Options Will Be Added. Be Patient. Thank You.
