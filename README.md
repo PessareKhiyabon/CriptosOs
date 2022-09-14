@@ -291,3 +291,23 @@ You Can Use The `back` Command To Return To The Main Menu
 
 ----
 
+
+# SocialMedia Links
+
+* <img src="https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ" width="50" height="50" alt="dyn"> [ WeirdVillage](https://github.com/DarkMode49) | My Discord Family
+
+
+
+
+
+
+# Special Thanks :)
+
+* <img src="https://avatars.githubusercontent.com/u/75219873?v=4" width="20" height="20" alt="dyn"> PessareKhiyabon | Me 
+* <img src="https://www.shodan.io/static/img/favicon.png" width="20" height="20" alt="dyn"> Shodan.io | For Search Engine
+* <img src="https://cdn.personalitylist.com/avatars/2860.png" width="20" height="20" alt="dyn"> [ Darkmode49](https://github.com/DarkMode49) | For Fix All Bugs
+
+
+----
+
+Thanks !
