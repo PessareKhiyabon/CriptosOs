@@ -89,8 +89,9 @@ Installation Is The Same For All Operating Systems And You Only Need ```Python3`
 Instructions For Installation In Windows And Linux And Other Operating Systems :
 
 ```bash
-python3 -m pip install -r requirement.txt
 cd CriptosOs
+python3 Main.py
+And Install !!
 python3 Criptos.py
 ```
 
