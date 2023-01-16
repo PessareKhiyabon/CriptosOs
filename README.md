@@ -90,8 +90,7 @@ Instructions For Installation In Windows And Linux And Other Operating Systems :
 
 ```bash
 cd CriptosOs
-python3 Main.py
-And Install !!
+python3 installer.py
 python3 Criptos.py
 ```
 
