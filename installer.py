@@ -22,7 +22,6 @@ try :
     os.system("pip3 install pycopy-webbrowser")
     os.system("pip3 install urllib3")
     os.system("pip3 install python3-nmap")
-    
     print("Installed !! Run ")
     
 except :
