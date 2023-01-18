@@ -90,8 +90,8 @@ Instructions For Installation In Windows And Linux And Other Operating Systems :
 
 ```bash
 cd CriptosOs
-python3 installer.py | python3 CripTosOS-Soft.py = ##For those who have problems when running Marshal !!!
-python3 Criptos.py
+python3 installer.py 
+python3 Criptos.py | python3 CripTosOS-Soft.py = ##For those who have problems when running Marshal !!!
 ```
 
 ### Check The Correctness Of The Installation
